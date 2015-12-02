@@ -132,7 +132,7 @@ def appointment_delete(appointment_id):
 
 @app.route('/login/', methods=['GET', 'POST'])
 def login():
-    if current_user.is_authenticated():
+    if current_user.is_authenticated:
         return redirect(url_for('appointment_list'))
     form = LoginForm(request.form)
     error = None
