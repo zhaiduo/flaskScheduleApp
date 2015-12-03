@@ -8,5 +8,5 @@ Flask 框架练手
 
 * Flask     https://github.com/zhaiduo/flaskScheduleApp
 * Django    https://github.com/zhaiduo/django-sample-app
-* Pyramid
+* Pyramid   https://github.com/zhaiduo/todopyramid
 * Tornado   https://github.com/zhaiduo/tornado-boilerplate
